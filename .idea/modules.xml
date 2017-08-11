@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SuspensionFAB.iml" filepath="$PROJECT_DIR$/SuspensionFAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuspensionFAB.iml" filepath="$PROJECT_DIR$/SuspensionFAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suspension-fab/suspension-fab.iml" filepath="$PROJECT_DIR$/suspension-fab/suspension-fab.iml" />
       <module fileurl="file://$PROJECT_DIR$/suspension-fab/suspension-fab.iml" filepath="$PROJECT_DIR$/suspension-fab/suspension-fab.iml" />
     </modules>
   </component>
